@@ -1,6 +1,6 @@
-# Tauri + Solid + Typescript
+# Tauri + Solid + Civet
 
-This template should help get you started developing with Tauri, Solid and Typescript in Vite.
+This template should help get you started developing with Tauri, Solid and Civet in Vite.
 
 ## Recommended IDE Setup
 
