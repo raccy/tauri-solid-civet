@@ -21,6 +21,8 @@ App := ->
         <img .logo.tauri src="/tauri.svg" alt="Tauri logo">
       <a href="https://solidjs.com" target="_blank">
         <img .logo.solid src=logo alt="Solid logo">
+      <a href="https://civet.dev/" target="_blank">
+        <img .logo.civet src="/civet.png" alt="Civet logo">
 
     <p>Click on the Tauri, Vite, and Solid logos to learn more.
 
